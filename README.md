@@ -4,5 +4,4 @@ Realtime Weather monitoring application. User have two choices of to enter City 
 Instructions to use:
 <br>
 1) For best response use online editor like 'replit'
-<br>
 2) Further, deployments can be done using the features available on the website
